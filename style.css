@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+h1{
+    background-color: blueviolet;
+    border-radius: 5px;
+    color: white;
+}
+
+ul li{
+    background-color: lime;
+    border-radius: 5px;
+}
+
+.one  b{
+   background-color: navajowhite;
+   border-radius:5px ;
+}
+
+.linkk b{
+    background-color: navajowhite;
+    border-radius: 5px;
+}
+
+li{
+    color: white
+}
+
+.two b{
+    background-color: navajowhite;
+    border-radius: 5px;
+}
+.imgg{
+    border-radius: 20px;
+}
+
+
+footer{
+    background-color: orangered;
+    border-radius: 10px;
+}
